@@ -18,7 +18,7 @@ body {
 
 
 .heading {
-  width: 1440px;
+  width: 1360px;
   height: 50px;
   background-color: #c60513;
 }
@@ -345,7 +345,7 @@ h4 {
 }
 
 .reserved {
-  width: 1440px;
+  width: 1360px;
   height: 66px;
   background-color: #c60513;
   margin-top: 60px;
@@ -545,7 +545,9 @@ margin-top: 5px;
   box-shadow: #ffffff;
 }
 
-
+.reserved {
+  width: 376px;
+}
 
 
 }
