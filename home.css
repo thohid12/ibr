@@ -333,7 +333,9 @@ form button {
 }
 
 h4 {
-  padding-top: 25px;
+  padding-top: 20px;
+  color: #C60513;
+  font-size: 20px;
 }
 
 .footer p {
@@ -409,7 +411,7 @@ h4 {
   }
 
   .elegibility h3 {
-    margin-left: 47.5px;
+   margin-left: 87.5px;
   }
 
   .eligibility_list {
